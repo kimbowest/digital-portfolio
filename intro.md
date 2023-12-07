@@ -4,8 +4,9 @@ Check out the content pages bundled with this sample book to see more.
 
 ```{tableofcontents}
 ```
+
 ````{tab-set}
-```{tab-item} Things I learned
+```{tab-item}Things I learned
 - Working with Jupyter Book and Markdown Syntax.
 - Understanding MyST (Markedly Structured Text).
 ```
